@@ -1,5 +1,6 @@
 # random forest
 # by ines, taken from ML final project
+# malo made a comment
 
 rm(list=ls())
 
